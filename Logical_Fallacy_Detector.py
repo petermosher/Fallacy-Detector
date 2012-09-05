@@ -25,8 +25,6 @@ for v,k in l:
 #it would be in a file, editable
 
 #thesis is here:modal auxiliary MD
-#my friend did exactly what I wanted to do with the certain website.. highlight stuff on the website, highlight matches. That is why I am not so far along. I let him carry. I let him carry twice. Once in Databases. Once in Operating Systems. But I didn't care for those projects too much anyway. I wish I had understood how he made that website though.
-#but he built the website himself. so... how does this work out? he built his own database. What i want to do, is do this all on the fly. So there's a difference. I could however do what he did, and make it on the fly... eventually. 
 
 
 #planned feature: detect homonyms. Homonyms indicate ambiguity.
